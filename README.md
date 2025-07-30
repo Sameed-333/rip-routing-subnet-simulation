@@ -1,4 +1,4 @@
-# RIP Routing & Subnet Communication Simulation
+# RIP Routing & Subnet Communication Simulation 🚀
 
 This project demonstrates a RIP-based routing setup in a multi-subnet environment using **Cisco Packet Tracer**. The network topology consists of multiple routers, switches and PCs configured across different subnets, where RIP is used to enable dynamic routing and inter-subnet communication.
 
@@ -64,9 +64,14 @@ A router determines whether a destination IP is in a particular subnet by perfor
 ---
 
 ## 📥 How to Run
-1. Open `RIP-Routing-Simulation.pkt` using **Cisco Packet Tracer**.
-2. Observe the topology and ping results.
-3. Verify routing tables on routers, and traceroute results from PCs.
+1. Download or clone this repository:
+   ```bash
+   git clone https://github.com/Sameed-333/rip-routing-subnet-simulation.git
+2. Open `RIP-Routing-Simulation.pkt` using **Cisco Packet Tracer**.
+3. Use the terminal on PCs to:
+  - ping other hosts to test connectivity
+  - tracert to observe hop paths
+4. Verify routing tables on routers, and traceroute results from PCs.
 
 ---
 
